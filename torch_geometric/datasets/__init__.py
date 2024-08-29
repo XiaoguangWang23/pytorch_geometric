@@ -1,5 +1,5 @@
 # flake8: noqa
-
+from .figraph import FiGraphDataset
 from .karate import KarateClub
 from .tu_dataset import TUDataset
 from .gnn_benchmark_dataset import GNNBenchmarkDataset
